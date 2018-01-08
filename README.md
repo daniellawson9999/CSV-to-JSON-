@@ -1,4 +1,4 @@
-<CSV to JSON converter>
+  <h1>CSV to JSON converter</h1>
   <ul>Usage:</ul>
   <li>Clone repo</li>
   <li>Install dependencies (and node js)</li>
